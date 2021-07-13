@@ -7,8 +7,8 @@ The framework is illustrated in simulations of linearly interacting stochastic
 processes, showing how it allows to retrieve amounts of information shared by
 the processes within specifc frequency bands which are otherwise not detectable
 by time-domain information measures, as well as coupling features which are
-not detectable by spectral measures [1]. The performance of different paramet-
-ric and non-parametric estimators are compared in simulative setting with a
+not detectable by spectral measures [1]. The performance of different parametric and non-parametric 
+estimators are compared in simulative setting with a
 four-variate VAR process of interacting processes with a pre defined coupling
 structure [2]. Its application is also illustrated on three different datasets:
 
