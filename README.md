@@ -1,5 +1,5 @@
 # fdIID-toolbox
-This Matlab toolbox provides a framework for frequency-specic quantification of the information shared between a target and two source time series (even multivariate). 
+This Matlab toolbox provides a framework for frequency-specic quantification of the information shared between a target and two sources time series (even multivariate). 
 The interaction information decomposition is provided in the frequency domain and related to the time domain through the block-coherence
 estimator. The decomposition can be computed directly from the estimation
 of Power Spectral Density matrix through parametric and non-parametric approaches.
