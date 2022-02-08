@@ -23,7 +23,7 @@ ocean and carbon dioxide volume [5]
 a New Framework to Study Cardiovascular and Cardiorespiratory Oscillations."
 bioRxiv (2020).
 
-[2]-Antonacci, Yuri, et al. "Measuring High-Order Interactions in Rhythmic
+[2]-**Antonacci, Yuri**, et al. "Measuring High-Order Interactions in Rhythmic
 Processes: A Framework for the Spectral Information Decomposition of Multi-
 variate Time Series.", IEEE Access (2021, sub)
 
